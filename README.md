@@ -5,11 +5,13 @@ This repository contains solutions to the following tasks:
 2. Count Unique Elements: A Python function that counts the number of unique elements in a list without using built-in functions related to counting or sets.
 3. SQL Query: A SQL query that calculates total revenue by month for the last quarter.
 
-Prerequisites:
+# Prerequisites
+
 To run the Python scripts, ensure you have the following installed on your system:
 Python 3.6 or higher
 
-Getting Started:
+# Getting Started
+
 1. Clone the Repository
 git clone https://github.com/Biswatosh01/Python-Development-Assessment_Bilateral-Solutions.git
 cd Python-Development-Assessment_Bilateral-Solutions
@@ -38,13 +40,15 @@ ii) Paste it into your SQL environment or editor.
 iii) Execute the query to calculate the total revenue generated in the last quarter, grouped by month.
 
 
-File Descriptions:
+# File Descriptions
+
 1. convert_string.py: Contains the Python function for reversing a string with the specific transformation.
 2. count_unique.py: Contains the Python function for counting unique elements in a list.
 3. revenue_by_month.sql: Contains the SQL query to calculate total revenue by month for the last quarter.
 
 
-Examples:
+# Examples
+
 1. Reverse String with Vowel Capitalization
 Input: "Hello, World!"
 Output: "!dlrOw ,OllEh"
