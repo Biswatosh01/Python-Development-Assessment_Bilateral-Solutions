@@ -8,35 +8,45 @@ This repository contains solutions to the following tasks:
 # Prerequisites
 
 To run the Python scripts, ensure you have the following installed on your system:
+
 Python 3.6 or higher
 
 # Getting Started
 
 1. Clone the Repository
+
 git clone https://github.com/Biswatosh01/Python-Development-Assessment_Bilateral-Solutions.git
+
 cd Python-Development-Assessment_Bilateral-Solutions
 
 
 2. Run the Python Functions
+
 You can run the provided Python functions using any Python IDE or directly from the command line.
 
-Running the Reverse String Function:
+i) Running the Reverse String Function:
+
 python3 convert_string.py
 
 This script takes a string as input and outputs the reversed string with vowels capitalized and consonants in lowercase.
 
-Running the Count Unique Elements Function:
+ii) Running the Count Unique Elements Function:
+
 python3 count_unique.py
 
 This script takes a list of elements as input and outputs the count of unique elements in the list.
 
 
 3. Running the SQL Query:
+
 The SQL query provided can be run in any SQL environment that supports PostgreSQL syntax.
 
 Steps:
+
 i) Copy the SQL query from revenue_by_month.sql.
+
 ii) Paste it into your SQL environment or editor.
+
 iii) Execute the query to calculate the total revenue generated in the last quarter, grouped by month.
 
 
@@ -50,11 +60,15 @@ iii) Execute the query to calculate the total revenue generated in the last quar
 # Examples
 
 1. Reverse String with Vowel Capitalization
+
 Input: "Hello, World!"
+
 Output: "!dlrOw ,OllEh"
 
 2. Count Unique Elements
+
 Input: [1, 2, 2, 3, 4, 4, 5]
+
 Output: 5
 
 
